@@ -11,4 +11,4 @@ Projek ini merupakan bagian dari pembalajaran data science di Purwadhika, yang m
   - Analisis data dengan menerapkan statistika deskriptif, uji normalitas, uji korelasi, dan uji krukal-walis
 3. Visualisasi data dengan seaborn, plotly, dan [tableau](https://public.tableau.com/views/TSAClaims_16575031692310/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
-![image](https://user-images.githubusercontent.com/36106884/178296351-7bc1db03-6929-46c1-bc62-ba5fda3a8a2f.png)
+![image](https://user-images.githubusercontent.com/36106884/178297175-077828f8-e1c9-43f9-ae86-33be042cf24e.png)
